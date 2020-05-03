@@ -9,7 +9,7 @@
     "email": "nileshsuthar@live.in"
   },
   "dependencies": {
-    "express": "3.4.0",
+    "express": "4.17.1",
     "connect": "2.25.7",
     "socket.io": "1.0.6",
     "session.socket.io": "0.1.6",
